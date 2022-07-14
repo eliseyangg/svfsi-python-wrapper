@@ -1,5 +1,7 @@
 # svfsi-python-wrapper
 
+[Update 07.14.2022](https://docs.google.com/document/d/1D1ldocvC2MarSwi00wpg1DOoF_mk20zBsxFQkD0nl7o/edit?usp=sharing)
+
 ## 1 Set up
 
 #### inp_path
